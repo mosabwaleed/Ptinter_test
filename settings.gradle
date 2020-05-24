@@ -1,0 +1,2 @@
+rootProject.name='Ptinter_test'
+include ':app'
